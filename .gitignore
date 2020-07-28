@@ -1,2 +1,6 @@
 #Jupyter Notebooks
 .ipynb_checkpoints/
+__pycache__/
+
+#Word 2 Vec file
+GoogleNews-vectors-negative300.bin
