@@ -1,1 +1,1 @@
-# SF-ClickBait
+# ClickBait Classification
